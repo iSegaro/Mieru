@@ -1,0 +1,20 @@
+{
+    "portBindings": [
+        {
+            "port": 2000,
+            "protocol": "TCP"
+        },
+        {
+            "port": 3000,
+            "protocol": "UDP"
+        }
+    ],
+    "users": [
+        {
+            "name": "iSegaro",
+            "password": "EtT7124&1F3R"
+        }
+    ],
+    "loggingLevel": "INFO",
+    "mtu": 1480
+}
